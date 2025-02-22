@@ -1,4 +1,4 @@
-#Informe Guía 1
+Informe Guía 1
 
 Presentado por:
 
